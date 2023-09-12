@@ -56,8 +56,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 1e werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
-  Bij het gebruik van de screenreader is er geen gebruik extra informatie toegevoegd die het toegankelijker maken voor een screenreader. De beschrijving is functioneel maar geeft niet veel extra informatie. Titels worden uitgelezen, maar er wordt geen extra informatie over de afbeelding gegeven en knoppen zeggen weinig over hun bestemming.  Verder is de herarchie is onaanwezig of zodanig onduidelijk dat het niet heel behulpzaam is. Bij de productpagina is het bijna onmogelijk om van de titel van het gegeven product naar de beschrijving te komen.
+Bij het gebruik van de screenreader viel het op dat er geen extra informatie is toegevoegd die de website toegankelijker maken voor gebruikers van screenreaders. De beschrijving is functioneel maar geeft niet veel extra details. Titels worden uitgelezen, maar er wordt geen extra informatie over de inhoud van afbeeldingen gegeven en knoppen zeggen weinig over hun bestemming.  Verder is de herarchie is onaanwezig of zodanig onduidelijk dat het niet heel behulpzaam is. Bij de productpagina is het bijna onmogelijk om van de titel van het gegeven product gemakkelijk naar de beschrijving te komen. Via de koppen kom niet naar de beschrijving, zie volgende afbeelding:
+<img src="readme-images/toegankelijkheidScreenshotEen.png" width="375px" alt="Screenshot van h1">
+<img src="readme-images/toegankelijkheidScreenshotTwee.png" width="375px" alt="Screenshot van h2">
+De beschrijving van het product zit achter 5-6 knop, die gebruiker nog apart moet openen om bij de informatie te komen.
+<img src="readme-images/toegankelijkheidScreenshotDrie.png" width="375px" alt="Screenshot van beschrijving knop">
+
+
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
