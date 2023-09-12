@@ -57,6 +57,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  Bij het gebruik van de screenreader is er geen gebruik extra informatie toegevoegd die het toegankelijker maken voor een screenreader. De beschrijving is functioneel maar geeft niet veel extra informatie. Titels worden uitgelezen, maar er wordt geen extra informatie over de afbeelding gegeven en knoppen zeggen weinig over hun bestemming.  Verder is de herarchie is onaanwezig of zodanig onduidelijk dat het niet heel behulpzaam is. Bij de productpagina is het bijna onmogelijk om van de titel van het gegeven product naar de beschrijving te komen.
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
