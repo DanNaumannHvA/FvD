@@ -74,7 +74,7 @@ Hiernaast is navigeren bij het gebruik van een toetsen bord moeilijk, er lijkt g
 <details>
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
-  <img src="readme-images/breackdownschets.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/breakdownschets.png" width="375px">
 
 
 </details>
