@@ -89,20 +89,21 @@ Hiernaast is navigeren bij het gebruik van een toetsen bord moeilijk, er lijkt g
   <summary>uitwerken voor 1e voortgang</summary>
 
   ### Stand van zaken Dan
-  Ik vind het nog vrij moeilijk om overzicht te houden over de parents en de childs. Als ik helemaal nieuwe code schrijf dan lukt het me niet om het overzicht te houden omdat nog niet alle veranderingen te zien zijn. Het aanpassen van de opdrachten voor het gebruik van de website werkt wel maar ik vind het moeilijk om daar verder op te boorduren. 
+  Ik vind het nog vrij moeilijk om overzicht te houden over de parents en de childs. Als ik helemaal nieuwe code schrijf dan lukt het me niet om het overzicht te houden omdat nog niet alle veranderingen te zien zijn. Het aanpassen van de opdrachten voor het gebruik van de website werkt wel maar ik vind het moeilijk om daar verder op te borduren. Hierdoor bleef ik heel erg vast zitten met het schrijven van de HTML.
 
   https://codepen.io/DanNaumannHvA/pen/eYbyVRN
 
   ### Stand van zaken Laura
+  Mijn HTML code is redelijk uitgebereid en ik heb zelfs al CSS toegepast.
+  Ik loop echter met simpele zaken nog een beetje vast (lees: ik heb dit gewoon nog niet correct toegepast), maar ik heb nog niet de tijd genomen om hier goed voor te zitten en hierover te Googlen. Wanneer ik écht vast loop zal ik vragen stellen. 
+
+  
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  - Vragen over het gebruik van afbeeldingen: Moet dit in de CSS of mag dit in de HTML.
+  - Hoeveel delen/sections moet je minimaal hebben van de website.
 
 
   ### Verslag van meeting
