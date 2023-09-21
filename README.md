@@ -74,14 +74,8 @@ Hiernaast is navigeren bij het gebruik van een toetsen bord moeilijk, er lijkt g
 <details>
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
-  ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breackdownschets.png" width="375px" alt="omschrijving van de pagina">
 
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -94,9 +88,12 @@ Hiernaast is navigeren bij het gebruik van een toetsen bord moeilijk, er lijkt g
 <details>
   <summary>uitwerken voor 1e voortgang</summary>
 
-  ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  ### Stand van zaken Dan
+  Ik vind het nog vrij moeilijk om overzicht te houden over de parents en de childs. Als ik helemaal nieuwe code schrijf dan lukt het me niet om het overzicht te houden omdat nog niet alle veranderingen te zien zijn. Het aanpassen van de opdrachten voor het gebruik van de website werkt wel maar ik vind het moeilijk om daar verder op te boorduren. 
 
+  https://codepen.io/DanNaumannHvA/pen/eYbyVRN
+
+  ### Stand van zaken Laura
 
   ### Agenda voor meeting
   samen met je groepje opstellen
