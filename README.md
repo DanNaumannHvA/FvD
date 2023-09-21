@@ -19,7 +19,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Dan Naumann
 
   #### Je startniveau:
-  Rood
+  blauw
 
   #### Je focus:
   Surface plane
@@ -63,30 +63,7 @@ Bij het gebruik van de screenreader viel het op dat er geen extra informatie is 
 De beschrijving van het product zit achter 5-6 knop, die gebruiker nog apart moet openen om bij de informatie te komen. Dit kost nog extra stappen en zoekwerk, zie volgende afbeelding:
 <img src="readme-images/toegankelijkheidScreenshotDrie.png" width="375px" alt="Screenshot van beschrijving knop">
 
-
-
-  #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
-
-  #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
-
-  #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
-
-  #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+Hiernaast is navigeren bij het gebruik van een toetsen bord moeilijk, er lijkt geen duidelijker herarchie te zijn.
 
 </details>
 
