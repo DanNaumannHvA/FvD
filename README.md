@@ -126,7 +126,7 @@ Hiernaast is navigeren bij het gebruik van een toetsen bord moeilijk, er lijkt g
   <summary>uitwerken voor 2e voortgang</summary>
 
   ### Stand van zaken
-  Ik begin het eindelijk een beetje te begrijpen maar het is moeilijk overzicht te houden met zoveel selectors in de CSS. Heb nu wel een goed begin en een ritme gevonden die ik kan begrijpen. 
+Het begint eindelijk een beetje te klikken CSS, ondanks die oneindige selectors die soms nog voor wat verwarring zorgen. Gelukkig heb ik nu wel een goede start en een soort van ritme gevonden dat ik kan volgen. Het is nog steeds een uitdaging, maar ik blijf doorgaan, oefenen en proberen, en ik begin eindelijk een beetje te snappen hoe dit alles werkt.
 
   ### Agenda voor meeting
   - Is de HTML zo semantisch goed? 
