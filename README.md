@@ -126,17 +126,13 @@ Hiernaast is navigeren bij het gebruik van een toetsen bord moeilijk, er lijkt g
   <summary>uitwerken voor 2e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+  Ik begin het eindelijk een beetje te begrijpen maar het is moeilijk overzicht te houden met zoveel selectors in de CSS. Heb nu wel een goed begin en een ritme gevonden die ik kan begrijpen. 
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  - Is de HTML zo semantisch goed? 
+  - Is er een maximaal aantal aan selectoren?
+  - Kun je . , > + symbolen ook aan elkaar koppelen? en zo ja, hoe moet dit dan?
+  - Wanneer mag je wel een class gebruiken?      |
 
 
   ### Verslag van meeting
