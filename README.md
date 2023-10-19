@@ -192,17 +192,12 @@ Het begint eindelijk een beetje te klikken CSS, ondanks die oneindige selectors 
   <summary>uitwerken voor 3e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  In door de deadlines deze en eind vorige week heb ik niet veel tijd kunnen besteden aan het verder ontwikkelen van de site. Alleen de sections zijn nu juist
+  https://codepen.io/DanNaumannHvA/pen/eYxOJYa
 
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  ### Agenda voor meeting (Vragen van groepje)
+- Is het mogelijk om de buttons van de eerste foto's elke keer onderaan de ul te zetten ipv van de li? Zo is het lelijik
+- Hoe krijg ik bij de tweede ul dat de de li smaller en langer worden totdat het scherm 749px is en dat ze dan onder elkaar komen. Dat tweede gedeelte lukt wel. Alleen nu blijven de li een bepaalde grootte waardoor ze over 2 rijen verdeeld worden ipv dat ze kleiner worden.
 
 
   ### Verslag van meeting
