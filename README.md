@@ -44,7 +44,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/schermTwee.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/Schermafbeelding 2023-11-05 om 17.44.04.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -107,12 +107,7 @@ Hiernaast is navigeren bij het gebruik van een toetsen bord moeilijk, er lijkt g
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+ Laura deed het heel goed en ik heb voor zover alle HTML kunnen schrijven. Er zitten nog wat foutjes in kwa semantiek. Vooral bij de articles en sections
 
 </details>
 
@@ -136,12 +131,7 @@ Het begint eindelijk een beetje te klikken CSS, ondanks die oneindige selectors 
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+ Iedereens website begint op een website te lijken. Er was weer wat verwarring met de semantiek het gebruik van articles en sections was verward de vorige meeting. Ik moet dit opnieuw doen.
 
 </details>
 
@@ -155,30 +145,22 @@ Het begint eindelijk een beetje te klikken CSS, ondanks die oneindige selectors 
   <summary>uitwerken na test in 8e werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+De screenreader kon ook niet de structuur en de navigatie van de website duidelijk maken, omdat er geen duidelijke koppen, lijsten, links en knoppen waren. Dit maakte het moeilijk voor mensen met een visuele beperking om de website te verkennen en te gebruiken.
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+De screenreader kon niet alle teksten op de website voorlezen, omdat sommige teksten in afbeeldingen of video’s waren verwerkt. 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+De website had ook geen duidelijke focus of feedback bij het gebruik van een muis of een toetsenbord, omdat sommige elementen geen rand, kleur of animatie hadden om aan te geven dat ze geselecteerd of geactiveerd waren. 
 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+De website was niet goed te gebruiken met schokken of elastiekjes, omdat sommige elementen te klein, te dicht bij elkaar of te gevoelig waren. 
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+De website had ook geen optie om het contrast, de kleuren of de modus van de website aan te passen.
 
 </details>
 
@@ -199,14 +181,9 @@ Het begint eindelijk een beetje te klikken CSS, ondanks die oneindige selectors 
 - Is het mogelijk om de buttons van de eerste foto's elke keer onderaan de ul te zetten ipv van de li? Zo is het lelijik
 - Hoe krijg ik bij de tweede ul dat de de li smaller en langer worden totdat het scherm 749px is en dat ze dan onder elkaar komen. Dat tweede gedeelte lukt wel. Alleen nu blijven de li een bepaalde grootte waardoor ze over 2 rijen verdeeld worden ipv dat ze kleiner worden.
 
+### Verslag van meeting
 
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+Iedereen deed het goed en er waren niet veel extra vragen.
 
 </details>
 
@@ -224,15 +201,21 @@ Het begint eindelijk een beetje te klikken CSS, ondanks die oneindige selectors 
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Ondanks de website niet af is heb ik wel meer geleerd over handig coderen. Ik ben een stuk handiger geworden met fouten vinden en ongewenste veranderingen teruglopen in de Inspector. Hiermnaast ben een een stuk bekender geworden met W3 Schools en vooral alle how-to's hebben heel erg geholpen. Uiteindelijk waren de animaties minder moeilijk dan ik dacht in vergelijking met de selectoren. Bij de selectoren ben ik heel blij dat ik uiteindelijk een manier had gevonden om de tweede pagina op te maken in het CSS bestand. Dit ging heel moeilijk op het begin, maar uiteindelijk kreeg ik het wel door waardoor er in ieder geval een helft van de tweede pagina er in grote lijnen staat met animaties. Hiernaast was een blauwe tint over een van de sections doen nog best een uitdaging, uiteindelijk had een klasgenoot me hiermee kunnen helpen wat ook heel veel hielp bij de selectoren uitvogelen. Het werken met SVG's was ook nog een kleine uitdaging om te verwerken, maar die uiteindelijk wel was geluk. Het was iets dat niet echt op de agenda stond, maar het was leuk om ineens uitgevogeld te hebben. 
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/uitvouwanimatie.png" width="375px" alt="top">
+  <img src="readme-images/blauw.png" width="375px" alt="top">
+  <img src="readme-images/svg.png" width="375px" alt="top">
+
+
+
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  Uiteindelijk was het jammer dat ik de tweede pagina niet af had gekregen. Het is nog steeds moeilijk om goed de selectoren op te zetten. Vaak codeerde ik mezelf in een hoe, en aanpassingen maken zorgde vaak voor verwarring. Uiteindelijk is de 5e versie van de website. Dus ik vind het vooral jammer dat ik nog niet goed een structuur kan uitbouwen en uitdenken. Daarnaast vind ik het ook jammer dat ik niet aan toegangkelijkheid veel delen van de responsivesness was gekomen.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+
+  <img src="readme-images/uitvouwanimatie.png" width="375px" alt="top">
 </details>
 
 
@@ -246,8 +229,19 @@ Het begint eindelijk een beetje te klikken CSS, ondanks die oneindige selectors 
 
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. https://www.w3schools.com/cssref/css_selectors.php
+  2. https://www.w3schools.com/cssref/trysel.php
+  3. https://css-tricks.com/snippets/css/complete-guide-grid/
+  4. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+  5. https://www.w3schools.com/howto/default.asp
+  6. https://www.w3schools.com/howto/howto_js_accordion.asp
+  7. https://www.w3schools.com/css/css_image_gallery.asp
+  8. https://www.w3schools.com/html/html5_semantic_elements.asp
+  9. https://www.w3schools.com/tags/tag_input.asp
+  10. https://www.w3schools.com/html/html_forms.asp
+  11. https://www.w3schools.com/html/html5_svg.asp
+  12. http://svgicons.sparkk.fr/
+  13. https://www.w3schools.com/howto/howto_css_image_effects.asp
+  14. https://www.w3schools.com/css/css_text.asp
 
 </details>
